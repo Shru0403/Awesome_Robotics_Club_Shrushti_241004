@@ -2,4 +2,6 @@ Hey! I am Shrushti Fulzele, and this repository contains my analysis and solutio
 
 1. IR Reflective Sensors
 2. Chess Pieces with conductive material and resistance grid
-3. Force Sensitive Resistors(FSR's) - This method proved to be a superior choice compared to the other two methods, which is why we have explained it in detail. 
+3. Force Sensitive Resistors(FSR's) - This method proved to be a superior choice compared to the other two methods, which is why we have explained it in detail.
+
+We also researched methods to work with reduced pins, like working with 7 and 16 pins respectively. This added another dimension to the problem, and could be used to improve solutions. 
