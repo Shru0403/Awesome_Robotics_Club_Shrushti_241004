@@ -27,7 +27,7 @@ FSR consists of a conductive polymer layer sandwiched between two electrodes. Wh
 - Output voltage from the divider is read by a microcontroller (e.g., Arduino).
 - When voltage crosses a pre-defined threshold (e.g., >2V), it indicates that the piece has been lifted
 
-![FSR setup](./tuti-roboclub-image-1.img "FSR setup")
+![FSR setup](./tuti-roboclub-image-1.jpg "FSR setup")
 
 ## Why this method works well
 - No need for vision/RFID/magnets
@@ -52,7 +52,7 @@ Set one row HIGH at a time (others LOW). Read all column pins.
 This is called row-column scanning, commonly used in keypads and LED matrices.
 - Debouncing & Timing: Implement a debounce routine to filter noise. Add scan delay (a few milliseconds) between rows.
 
-![16-Pin Approach](./tuti-roboclub-image-2.img "16-Pin Approach")
+![16-Pin Approach](./tuti-roboclub-image-2.jpg "16-Pin Approach")
 
 ## 7-Pin Approach
 ### Using Multiplexers (MUX) or Shift Registers
